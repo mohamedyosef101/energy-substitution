@@ -1,15 +1,17 @@
-# Global Energy Substitution from 1983 to 2022
-Explore data on how energy production and use varies across the world.
+# Global energy consumption
+The energy system has transformed dramatically since the Industrial Revolution. We see this transformation of the global energy supply in the interactive chart shown here. It graphs global energy consumption from 1800 onwards.
+
+**Data Source:** [Global Energy Substitution from 1983 to 2022](https://www.kaggle.com/datasets/mohamedyosef101/global-energy-substitution-from-1983-to-2022)
 
 
+![energy 2](https://github.com/mohamedyosef101/energy-substitution/assets/118842452/ffae65d5-2c29-4626-a13c-115897bc8952)
 
 
+<div><br></div>
 
 
 ## Acknowledgments
 * This data has been collected, aggregated, and documented by Hannah Ritchie, Pablo Rosado, Edouard Mathieu, Max Roser. [Read the full article](https://ourworldindata.org/energy-production-consumption) and [visit the GitHub](https://github.com/owid/energy-data)
-
-* Photo by <a href="https://unsplash.com/@disguise_truth?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Anastasia Zhenina</a> on <a href="https://unsplash.com/photos/E4XARZNDjzI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 
 <div><br></div>
