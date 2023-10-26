@@ -1,5 +1,5 @@
-# Global energy consumption
-The energy system has transformed dramatically since the Industrial Revolution. We'll see this transformation of the global energy supply in this notebook. It shows global energy consumption from 1983 onwards.
+# Global energy consumption from 1983 to 2022
+The energy system has transformed dramatically since the Industrial Revolution. We'll see this transformation of the global energy supply in this project.
 
 **Data Source:** [Global Energy Substitution from 1983 to 2022](https://www.kaggle.com/datasets/mohamedyosef101/global-energy-substitution-from-1983-to-2022)
 
